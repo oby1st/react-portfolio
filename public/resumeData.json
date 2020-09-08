@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Joy SEclass",
+    "occupation": "Business Analyst && Instructor @CleverInsights",
+    "description": "Business Analyst by Day, Developer Trainee by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Joy, I'm a Business Analyst. Currently training to become a React Developer ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
+    "email": "joyseclass@mail.com",
     "phone": "+44 12 345 6789",
     "address": {
       "street": "123 Fake Street",
